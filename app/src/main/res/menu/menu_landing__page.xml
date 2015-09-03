@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Landing_Page">
+    <item android:id="@+id/addSubject" android:title="@string/addSubject"
+        android:orderInCategory="100" app:showAsAction="always"
+        android:icon="@drawable/settings_icon"/>
+    <item android:id="@+id/aboutUs" android:title="@string/aboutUs"
+        android:orderInCategory="200" app:showAsAction="never" />
+    <item android:id="@+id/Record" android:title="@string/Record"
+        android:orderInCategory="300" app:showAsAction="never"/>
+</menu>

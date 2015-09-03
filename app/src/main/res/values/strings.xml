@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Student Manager</string>
+    <string name="addSubject">Add Subject</string>
+    <string name="aboutUs">Clear Data</string>
+    <string name="title_activity_record__info">Check Record</string>
+
+    <string name="Record">Record</string>
+    <string name="title_activity_faltu">Student Manager</string>
+
+</resources>
